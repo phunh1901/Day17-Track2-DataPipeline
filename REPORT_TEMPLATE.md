@@ -1,6 +1,8 @@
 # Báo cáo LAB 17 — Data Pipeline Engineering
 
-**Họ tên:** Học viên  **Lớp:** AICB-P2T2  **Ngày:** 17/08/2026
+**Họ tên:** Ngô Hoàng Phú
+**Lớp:** AICB-P2T2
+**Ngày:** 17/08/2026
 
 ---
 
